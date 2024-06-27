@@ -1,4 +1,3 @@
-repository "Game tugas akhir@muhammad2100018225@cloud"
+rep "Game tugas akhir@muhammad2100018225@cloud"
   path "/"
-    br "/main"
-    co "/main"
+    smartbranch "/main"
